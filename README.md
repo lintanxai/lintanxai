@@ -1,4 +1,13 @@
-## Hi there, I'm lintanx. just an ordinary guy who is enthusiastic as a programmer. hope it can be useful for myself as well as many people. Thank you for visiting and nice to know you
+### Hi there
+```bash
+$ ./lintanx
+```
+```I'm lintanx. Just an ordinary guy who is enthusiastic as a programmer. Hope it can be useful for myself as well as many people. Thank you for visiting and nice to know you.```
+
+<!-- A spacer -->
+<h2 align="center"></h2>
+<span>&nbsp;</span>
+
 <div align="center">
   <a href="https://github.com/lintanxai"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://wa.me/6285868154871"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
